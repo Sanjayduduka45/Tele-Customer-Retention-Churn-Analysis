@@ -18,7 +18,7 @@ The project combines Data Analysis, Business Intelligence, Machine Learning, Hyp
 
 ### Domain
 
-**Data Science & Machine Learning**
+**Data Analytics**
 
 ### Project Title
 
