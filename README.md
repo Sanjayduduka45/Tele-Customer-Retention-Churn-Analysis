@@ -316,9 +316,4 @@ The project provides valuable business insights that can help telecom companies 
 
 ---
 
-# Internship Information
-
-### Organization
-
-Future Interns
 
