@@ -29,7 +29,7 @@ The project combines Data Analysis, Business Intelligence, Machine Learning, Hyp
 Repository Link:
 
 **GitHub:**
-https://github.com/Sanjayduduka45/FUTURE_DS02_Tele-Customer-Retention-Churn-Analysis.git
+https://github.com/Sanjayduduka45/Tele-Customer-Retention-Churn-Analysis
 
 ---
 
