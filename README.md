@@ -1,7 +1,5 @@
 # Customer Retention & Churn Analysis
 
-## Internship Project – Future Interns
-
 ### Project Overview
 
 Customer retention is one of the most important business challenges in the telecom industry. Understanding customer behavior and identifying churn factors helps organizations improve customer satisfaction and reduce revenue loss.
